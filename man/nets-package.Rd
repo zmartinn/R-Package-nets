@@ -13,7 +13,7 @@ License: \tab GPL\cr
 LazyLoad: \tab yes\cr
 } }
 \author{
-Christian Brownlees 
+Christian Brownlees & Sammy Teillet
 
 Maintainer: Christian Brownlees 
 }

@@ -3,7 +3,7 @@ Type: Package
 Title: Network Estimation for Time Series
 Version: 0.2
 Date: 2013-03-03
-Author: Christian Brownlees
+Author: Christian Brownlees & Sammy Teillet
 Maintainer: Christian Brownlees <christian.brownlees@upf.edu>
 Depends: igraph
 Description: The package provides routines for the estimation and analysis of sparse networks for multivariate time series data 
